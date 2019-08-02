@@ -1,0 +1,33 @@
+{
+  "name": "NodeJs-base",
+  "version": "1.0.0",
+  "description": "TO-DO -> ESlint -> prettier -> travis.yml -> test -> babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hi-manshu-kumar/NodeJs-base.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hi-manshu-kumar/NodeJs-base/issues"
+  },
+  "homepage": "https://github.com/hi-manshu-kumar/NodeJs-base#readme",
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-config-node": "^4.0.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
