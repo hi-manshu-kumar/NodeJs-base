@@ -1,11 +1,12 @@
 # NodeJs-base
 
 TO-DO
--> ESlint
--> prettier
--> travis.yml
--> test
--> babel
--> pm2
--> logger
--> circleci
+
+[x] ESlint
+[x] prettier
+[x] travis.yml
+[] test
+[x] babel
+[x] pm2
+[x] logger
+[] circleci (already using travis.yml)
